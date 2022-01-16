@@ -1,6 +1,6 @@
 class _BotCommands:
     def __init__(self):
-        self.StartCommand = 'start3'
+        self.StartCommand = 'start'
         self.MirrorCommand = 'mirror3'
         self.UnzipMirrorCommand = 'unzipmirror3'
         self.TarMirrorCommand = 'tarmirror3'
@@ -30,9 +30,9 @@ class _BotCommands:
         self.QbTarMirrorCommand = 'qbtarmirror3'
         self.QbZipMirrorCommand = 'qbzipmirror3'
         self.DeleteCommand = 'del3'
-        self.ShellCommand = 'shell'
+        self.ShellCommand = 'shell3'
         self.ExecHelpCommand = 'exechelp3'
-        self.TsHelpCommand = 'tshelp3'
+        self.TsHelpCommand = 'tshelp'
         self.LeechSetCommand = 'leechset3'
         self.SetThumbCommand = 'setthumb3'
         self.LeechCommand = 'leech3'
